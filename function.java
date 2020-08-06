@@ -1,15 +1,10 @@
 Main(){
-
-Function1(){
-
+Function1()
+{
 // initial code
-
 }
-
-
-Function2(){
-
+Function2()
+{
 //initial code
-
 }
 }
