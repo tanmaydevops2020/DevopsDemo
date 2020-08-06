@@ -1,8 +1,7 @@
-Main(){
-
-Function1(){
-
+Main()
+{
+Function1()
+{
 // initial code
-
 }
 }
